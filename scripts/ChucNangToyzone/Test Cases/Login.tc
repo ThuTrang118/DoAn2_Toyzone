@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30a909b8-9592-4e65-8811-a1f56fde02b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>100e2071-054c-4f2e-80c8-0731140876ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13718df7-ef96-4bf9-a286-aa8ac84e6849</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'username\r\n'</defaultValue>
+      <description></description>
+      <id>100e2071-054c-4f2e-80c8-0731140876ea</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass\r\n'</defaultValue>
+      <description></description>
+      <id>13718df7-ef96-4bf9-a286-aa8ac84e6849</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

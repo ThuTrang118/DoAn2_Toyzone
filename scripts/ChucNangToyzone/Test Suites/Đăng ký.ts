@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Đăng ký</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>dc87ae37-7827-45c9-9a46-233c99b62768</testSuiteGuid>
+   <testCaseLink>
+      <guid>5aee9f0f-85f8-434b-8bf3-5cc633b4cce5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Đăng ký</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>16512283-0961-42fb-8a0e-ab669f9e419e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Đăng ký</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ho</value>
+         <variableId>9cc38599-b060-4247-80b1-d34420397260</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ten</value>
+         <variableId>0effdbd7-cc66-49a8-a08b-dbb5c171fc2e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GioiTinh</value>
+         <variableId>036b754d-0db0-4bb9-959c-da463059aa44</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ngày</value>
+         <variableId>34419700-cb29-42c4-b54a-a6c2803aaae9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>be103d32-3756-4b88-838b-cd48095b5f49</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16512283-0961-42fb-8a0e-ab669f9e419e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>424d7f9a-390a-4bca-9ae9-4fbb67878f92</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

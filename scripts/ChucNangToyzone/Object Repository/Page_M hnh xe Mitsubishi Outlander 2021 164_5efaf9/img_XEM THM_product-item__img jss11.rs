@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_XEM THM_product-item__img jss11</name>
+   <tag></tag>
+   <elementGuidId>386000f0-8818-4309-9537-3c3b47541cee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#splide01-slide03 > div.MuiBox-root.jss40.product-item.jss7 > div.MuiBox-root.jss41.jss8 > a.jss10 > img.product-item__img.jss11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a0274b57-a815-4fe7-9fb1-c317efda295f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__img jss11</value>
+      <webElementGuid>ce8ebc3a-a3a9-4c32-842a-394c1fc8a013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://product.hstatic.net/200000726533/product/mo-hinh-do-choi-blind-box-lotso-its-me-series-2-gau-dau-2-52toys__1__60bd6a737a434b0bb879d96e44a8490d.jpg</value>
+      <webElementGuid>4182fcb6-1a43-47f9-a813-c001f5078815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide01-slide03&quot;)/div[@class=&quot;MuiBox-root jss40 product-item jss7&quot;]/div[@class=&quot;MuiBox-root jss41 jss8&quot;]/a[@class=&quot;jss10&quot;]/img[@class=&quot;product-item__img jss11&quot;]</value>
+      <webElementGuid>dcde82be-a0e4-4931-a84c-296bc75b9988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_M hnh xe Mitsubishi Outlander 2021 164_5efaf9/iframe_Cha c nh gi no_FucTm-udkp6_e56C</value>
+      <webElementGuid>afb93998-3bb1-4e47-adc5-09f874068967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      <webElementGuid>6a763eec-51b2-4d5b-ba82-64fe7145f504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://product.hstatic.net/200000726533/product/mo-hinh-do-choi-blind-box-lotso-its-me-series-2-gau-dau-2-52toys__1__60bd6a737a434b0bb879d96e44a8490d.jpg')])[2]</value>
+      <webElementGuid>5ddf52f7-a6d6-445a-9ecc-6816801ff76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/div/a/img</value>
+      <webElementGuid>dcba12ca-d264-47c1-b323-bf5e27fae9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://product.hstatic.net/200000726533/product/mo-hinh-do-choi-blind-box-lotso-its-me-series-2-gau-dau-2-52toys__1__60bd6a737a434b0bb879d96e44a8490d.jpg']</value>
+      <webElementGuid>5474b21e-c932-4353-a6aa-5fbdf8ce8f85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

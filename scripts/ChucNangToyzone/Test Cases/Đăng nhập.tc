@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng nhập</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9483f514-2bad-400b-a9fe-180213408074</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c05a7db9-175f-4910-a9e9-8a6787f6ac42</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed597e38-d20e-4329-b87c-d11a290b4e02</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'username\r\n'</defaultValue>
+      <description></description>
+      <id>c05a7db9-175f-4910-a9e9-8a6787f6ac42</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass\r\n'</defaultValue>
+      <description></description>
+      <id>ed597e38-d20e-4329-b87c-d11a290b4e02</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

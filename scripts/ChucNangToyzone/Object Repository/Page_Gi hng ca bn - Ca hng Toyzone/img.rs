@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>504c66e2-6513-496e-b36e-cf56c03ea76d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product_image > a > img[alt=&quot;Mô hình Blind box Móc khóa Gấu bông Baby Three V3 Mini BABY THREE&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cartformpage']/div/div/table/tbody/tr/td/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2f5e7dcc-7b29-405f-8b2f-da080c073864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>  //product.hstatic.net/200000726533/product/mo-hinh-blind-box-moc-khoa-gau-bong-baby-three-v3-mini-baby-three__11__d9213105c1b949369780f29fdbf41a15_medium.jpg</value>
+      <webElementGuid>739b67aa-288a-4176-b071-c9425da23ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Mô hình Blind box Móc khóa Gấu bông Baby Three V3 Mini BABY THREE</value>
+      <webElementGuid>3ea8ba0e-073c-486a-a80f-f66ec7ce26a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartformpage&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/table[@class=&quot;table-cart&quot;]/tbody[1]/tr[@class=&quot;line-item-container&quot;]/td[@class=&quot;image&quot;]/div[@class=&quot;product_image&quot;]/a[1]/img[1]</value>
+      <webElementGuid>b4206e3d-a1c2-424f-ae67-d675dc5351b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartformpage']/div/div/table/tbody/tr/td/div/a/img</value>
+      <webElementGuid>c1aa64b8-ed0d-4b47-9342-b3e0227356a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Mô hình Blind box Móc khóa Gấu bông Baby Three V3 Mini BABY THREE'])[2]</value>
+      <webElementGuid>678bccef-2f9b-4423-948b-57c276635de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/a/img</value>
+      <webElementGuid>cbe81a73-7b99-48f1-9f4c-0ce072edc182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '  //product.hstatic.net/200000726533/product/mo-hinh-blind-box-moc-khoa-gau-bong-baby-three-v3-mini-baby-three__11__d9213105c1b949369780f29fdbf41a15_medium.jpg' and @alt = 'Mô hình Blind box Móc khóa Gấu bông Baby Three V3 Mini BABY THREE']</value>
+      <webElementGuid>0a8bb3fd-4250-4ccd-bf7a-3c60c80e98fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

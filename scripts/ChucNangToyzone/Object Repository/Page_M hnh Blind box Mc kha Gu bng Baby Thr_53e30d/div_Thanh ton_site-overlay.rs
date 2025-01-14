@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thanh ton_site-overlay</name>
+   <tag></tag>
+   <elementGuidId>0f25c13b-f5f8-43fa-a116-76d29de814a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#site-overlay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-overlay']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28652aef-7a62-4162-9e3b-2871318bd6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>site-overlay</value>
+      <webElementGuid>59e80851-96f1-44ff-a263-b39b1148bc70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-overlay active</value>
+      <webElementGuid>25c7021d-bd4f-4464-b3f0-76cb2591c3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-overlay&quot;)</value>
+      <webElementGuid>7083e2da-7167-470b-a3f1-7e33bbf0741e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='site-overlay']</value>
+      <webElementGuid>79b5b3a2-f520-4022-b24b-2d39b388c06e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>e124591d-9559-4648-bab1-6d81c41c36a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'site-overlay']</value>
+      <webElementGuid>eaf37cdf-ed48-451d-8d00-75363b36c490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

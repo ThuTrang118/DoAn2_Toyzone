@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Thêm nhiều sản phẩm</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c1be9c2e-2900-4f77-908a-ea57d5414586</testSuiteGuid>
+   <testCaseLink>
+      <guid>312f3104-9009-43c0-ae44-9c5cb33c1137</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4ac32116-6c15-4d3d-a7d1-e7da368c92f7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4ac32116-6c15-4d3d-a7d1-e7da368c92f7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>100e2071-054c-4f2e-80c8-0731140876ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4ac32116-6c15-4d3d-a7d1-e7da368c92f7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>13718df7-ef96-4bf9-a286-aa8ac84e6849</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>31f6fba6-42fe-4362-a7f9-d7c141c31120</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Giỏ hàng/Thêm nhiều sản phẩm</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>960349af-f372-41f6-afe0-a9dcc414b589</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a0ac7db6-9776-495f-b4ce-b89a3a611f0e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

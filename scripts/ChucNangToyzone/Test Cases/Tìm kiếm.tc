@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57800535-edd7-4a97-9b5d-69fd279dc550</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12f225c9-eb58-4edd-9f4d-c7dccc8181e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'key\r\n'</defaultValue>
+      <description></description>
+      <id>12f225c9-eb58-4edd-9f4d-c7dccc8181e7</id>
+      <masked>false</masked>
+      <name>key</name>
+   </variable>
+</TestCaseEntity>

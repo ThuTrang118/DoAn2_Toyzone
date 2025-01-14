@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ng nhp_btn btn-signin</name>
+   <tag></tag>
+   <elementGuidId>bbd3b7d3-1122-4240-bfe2-f7b8aa1b051f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-signin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Đăng nhập']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>23c8e446-30cd-4c62-8c09-1af34650a544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-signin</value>
+      <webElementGuid>a92755bf-7c78-432e-b0fc-643f1821321f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0dd4d67d-fd6b-4d70-890a-e7787c1f901b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>fb12d727-2bf1-440a-a158-f76e51ab88c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;clearfix action_account_custommer&quot;]/div[@class=&quot;action_bottom button dark&quot;]/input[@class=&quot;btn btn-signin&quot;]</value>
+      <webElementGuid>3b7fc45c-0f2c-4b2e-b50c-cb8b4d9974f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Đăng nhập']</value>
+      <webElementGuid>0abc2a53-bd4e-40cd-b1a4-d1971aa794ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customer_login']/div[3]/div/input</value>
+      <webElementGuid>ae69b087-00c9-4920-b1c0-99c52469dbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>a7824c00-7c19-44a1-b620-f080d8b72f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>f57a74bf-5969-4f53-8ed2-0e7b89828218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

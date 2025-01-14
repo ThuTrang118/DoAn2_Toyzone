@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_H Tn  Phm Trang</name>
+   <tag></tag>
+   <elementGuidId>d3c4ebca-0180-4fbf-a0d7-43f79a03eafe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#customer_sidebar > p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_sidebar']/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a06ad81c-f221-48b6-9130-850d924a6cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Họ Tên:  Phạm Trang</value>
+      <webElementGuid>0b47ffdb-4cb5-40e6-a48b-4c835507e9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_sidebar&quot;)/p[2]</value>
+      <webElementGuid>a01489ee-38cd-4195-881a-959fc549b671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_sidebar']/p[2]</value>
+      <webElementGuid>22106c7c-f785-4b25-8c79-cbc28020d10f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/following::p[2]</value>
+      <webElementGuid>59faa9e4-f257-4859-ac31-f027b4252b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách địa chỉ'])[1]/following::p[2]</value>
+      <webElementGuid>a8cbb7e7-7e2d-4d6e-addd-c84ae405f709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty:'])[1]/preceding::p[1]</value>
+      <webElementGuid>53596129-3492-4630-8823-cbe86cac20e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Phạm Trang']/parent::*</value>
+      <webElementGuid>efc027ff-0c74-410c-ad98-8484e19e79e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/p[2]</value>
+      <webElementGuid>f6d3ec81-2ddf-4d29-99a7-3f84a88a2241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Họ Tên:  Phạm Trang' or . = 'Họ Tên:  Phạm Trang')]</value>
+      <webElementGuid>95aa1df3-ea71-44bc-a8c7-db457dc8cf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p[2]</value>
+      <webElementGuid>02b3dbe3-a416-4dd3-8c50-d0baf4276496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

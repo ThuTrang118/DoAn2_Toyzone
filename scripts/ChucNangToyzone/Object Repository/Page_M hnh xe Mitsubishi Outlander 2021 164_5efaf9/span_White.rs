@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_White</name>
+   <tag></tag>
+   <elementGuidId>e94e12c4-d486-448a-af7e-5f7c4a70bdb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#con-hang > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='con-hang']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff5c39f7-0cc4-4699-acc3-69acd5279a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>White</value>
+      <webElementGuid>ab4a7758-4ec9-41d9-b5c7-22cbe540bed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;con-hang&quot;)/span[1]</value>
+      <webElementGuid>8999a066-6b4b-476f-b1e9-4a09210b084f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='con-hang']/span</value>
+      <webElementGuid>d804801f-b9c2-4a03-a744-8520d13bc00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn màu:'])[1]/following::span[1]</value>
+      <webElementGuid>8d1cc8b1-4f24-4f2a-9d92-9b743ee454a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Màu sắc'])[1]/following::span[2]</value>
+      <webElementGuid>c724f3fc-8482-4fc5-9c83-e4779368f13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[2]/preceding::span[1]</value>
+      <webElementGuid>cbd14797-1ce2-4273-abf1-16ba6b8c4d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hết hàng'])[2]/preceding::span[2]</value>
+      <webElementGuid>7ce7b359-2827-47fe-9fac-5ec9b70a7c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>66157a1b-3fd9-4c3d-a0c9-3cb7641fd188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'White' or . = 'White')]</value>
+      <webElementGuid>c5512084-c5f8-4312-b247-27b3edf09d04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

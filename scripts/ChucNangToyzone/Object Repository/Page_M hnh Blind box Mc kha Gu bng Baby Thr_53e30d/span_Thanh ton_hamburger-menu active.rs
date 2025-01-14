@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thanh ton_hamburger-menu active</name>
+   <tag></tag>
+   <elementGuidId>7c987569-c160-4eae-80cd-4b01a5d7412a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.hamburger-menu.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='site-close-handle']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa630613-bcae-41cf-a5d9-cc0dd36151ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hamburger-menu active</value>
+      <webElementGuid>ffd21115-aca2-4ce2-8ed0-aebb60ec1abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>31682143-caa3-40eb-825b-08544f521f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-close-handle&quot;)/span[@class=&quot;hamburger-menu active&quot;]</value>
+      <webElementGuid>f6e895e5-8cc0-484d-8711-dbd9e0002f4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='site-close-handle']/span</value>
+      <webElementGuid>fe93de34-6c1c-4e06-a181-4ab85b3332ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh toán'])[2]/following::span[1]</value>
+      <webElementGuid>0a5b1616-77aa-4c00-ab20-17eb7b0e0f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/following::span[1]</value>
+      <webElementGuid>09f7dad5-58f4-464f-96a5-e6b7e7880130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::span[2]</value>
+      <webElementGuid>0de34073-50c5-4a1d-8e8c-ab8b712b8b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông Báo'])[1]/preceding::span[2]</value>
+      <webElementGuid>cb3bf2c5-e64f-47d6-85d2-95e0e4cf0bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>3ab2dfc2-25dd-4ce5-a779-e2fbd6fc338b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

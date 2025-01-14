@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BABY THREE</name>
+   <tag></tag>
+   <elementGuidId>c3e909f2-5066-49cd-a7b4-4a34a22b7d93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product__vendor > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-product']/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>28c95411-89e1-4025-a18e-d93a3bf3e810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/baby-three</value>
+      <webElementGuid>cb5c9bf2-7477-4699-8582-8be632d9f1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BABY THREE</value>
+      <webElementGuid>6b4c23e7-8ef9-46ee-9a34-4df551ebbdeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-product&quot;)/div[@class=&quot;product-title&quot;]/div[@class=&quot;product__vendor&quot;]/a[1]</value>
+      <webElementGuid>7aafefd4-dcc4-4717-a6da-8a5ec9a01537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-product']/div/div[2]/a</value>
+      <webElementGuid>77093412-93e9-406f-af10-bb91df44c52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BABY THREE')]</value>
+      <webElementGuid>f4e039eb-657d-4b78-b7f8-857710efc27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thương hiệu:'])[1]/following::a[1]</value>
+      <webElementGuid>b57fb77a-559d-4edd-9c38-3c6d953b7abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKU: 6976919369900-1'])[1]/following::a[1]</value>
+      <webElementGuid>dac9b304-e48c-49ff-8f00-5caf770d5529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem điểm tích lũy'])[1]/preceding::a[2]</value>
+      <webElementGuid>b1742dfa-1ee3-48c2-85de-2a9c6ac17466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiêu đề:'])[1]/preceding::a[3]</value>
+      <webElementGuid>5ad595c9-d638-4e69-9931-74b0320cf789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BABY THREE']/parent::*</value>
+      <webElementGuid>d917b84a-1990-4764-a5c1-c8141adc0053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/collections/baby-three')]</value>
+      <webElementGuid>7372d618-7abb-499a-9e9f-ee40504acc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+      <webElementGuid>e9a1942a-1213-44fc-a543-2c6b7d7676a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/baby-three' and (text() = 'BABY THREE' or . = 'BABY THREE')]</value>
+      <webElementGuid>b3efccbd-4545-4663-97b9-3e45399bdaf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

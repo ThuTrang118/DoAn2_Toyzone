@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1,037,000</name>
+   <tag></tag>
+   <elementGuidId>9f3c5b90-b7ab-4801-a72b-5c1ad6b42816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cartformpage']/div/div[3]/p/span/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>548418f5-f9c9-43ba-a48c-dab8ace26c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1,037,000₫</value>
+      <webElementGuid>5b9ffc00-c49c-4e5d-b368-f7c574f8280b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartformpage&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12 text-right&quot;]/p[@class=&quot;order-infor&quot;]/span[@class=&quot;total_price&quot;]/b[1]</value>
+      <webElementGuid>e4062eda-0f7c-4621-be36-3d87018a4862</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartformpage']/div/div[3]/p/span/b</value>
+      <webElementGuid>bb96766c-c664-427f-9e37-d63c64ac016e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành tiền:'])[3]/following::b[1]</value>
+      <webElementGuid>506e9191-5309-43f4-95b4-957e159147d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[3]/following::b[1]</value>
+      <webElementGuid>c488ac36-8376-4723-ba19-04aae6e9882e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/preceding::b[1]</value>
+      <webElementGuid>539f71b5-8378-4c1f-898e-b9c730659a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cập nhật'])[1]/preceding::b[1]</value>
+      <webElementGuid>7564bc87-0829-472b-8d64-49b650b294ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>7d703a36-c8a3-4446-a8c3-2fb344baae39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '1,037,000₫' or . = '1,037,000₫')]</value>
+      <webElementGuid>f88b8113-68c7-4328-9365-403296f34c25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_XEM THM (1)</name>
+   <tag></tag>
+   <elementGuidId>d81aaef2-9cec-44fd-85e3-687272f73716</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#splide01-slide04 > div.MuiBox-root.jss45.product-item.jss7 > div.MuiBox-root.jss47.jss9 > div.MuiBox-root.jss49 > button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.product-item__button.MuiButton-outlinedPrimary.MuiButton-fullWidth</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1db9708-5355-4d66-9ac7-2a35ba534037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined product-item__button MuiButton-outlinedPrimary MuiButton-fullWidth</value>
+      <webElementGuid>5a7d7826-39ea-41f9-aaed-d3fc0d5d5c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dcfabfba-860d-44fd-876f-12f9f122ac6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>XEM THÊM</value>
+      <webElementGuid>f8d4f8b0-e41d-429e-9184-f22ed3ae3e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide01-slide04&quot;)/div[@class=&quot;MuiBox-root jss45 product-item jss7&quot;]/div[@class=&quot;MuiBox-root jss47 jss9&quot;]/div[@class=&quot;MuiBox-root jss49&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined product-item__button MuiButton-outlinedPrimary MuiButton-fullWidth&quot;]</value>
+      <webElementGuid>93b83508-8f28-406b-847b-4aa5474a60b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_M hnh Blind box Mc kha Gu bng Baby Thr_16888b/iframe_Cha c nh gi no_rHB68Kz4VK-zfbtA</value>
+      <webElementGuid>76f635b3-b12e-495e-9db3-d68eefe54d1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>2b00664f-afc2-41c0-8f4f-70e7b110c963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide01-slide04']/div/div[2]/div[2]/button</value>
+      <webElementGuid>9fb477a4-7b6e-499e-904f-08ccdd4ddce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô hình Blind box Móc khóa Gấu bông Baby Three Macaron Bunny BABY THREE'])[2]/following::button[1]</value>
+      <webElementGuid>8e6dee74-c6c6-4f64-9718-62c4e2c5c52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XEM THÊM'])[11]/following::button[1]</value>
+      <webElementGuid>f22fa935-ae94-4e67-947e-a9ea8bf932c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô hình Blind box Móc khóa Gấu Bông Baby Three 12 Cung Hoàng Đạo ( 12 Constellations ) BABY THREE'])[2]/preceding::button[1]</value>
+      <webElementGuid>9e05783f-d07c-4539-b80d-62f0e3eb9913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/div/div[2]/div[2]/button</value>
+      <webElementGuid>e34ac3b8-0afc-4b65-9b49-336e49d673ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'XEM THÊM' or . = 'XEM THÊM')]</value>
+      <webElementGuid>8e90c86a-04d3-4fca-9dc9-b1552cf95df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

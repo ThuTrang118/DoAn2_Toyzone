@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_H Tn  Trang Phm</name>
+   <tag></tag>
+   <elementGuidId>61968991-ea7b-4da7-aca7-6314ea020997</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customer_sidebar']/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#customer_sidebar > p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6b40b94f-6cd1-4a59-addd-fa244dded212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Họ Tên:  Trang Phạm</value>
+      <webElementGuid>8c160a8d-1b3b-435b-9977-4f85ab4bb0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_sidebar&quot;)/p[2]</value>
+      <webElementGuid>09ce8228-3b0f-4aee-8176-b9a806c53a57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customer_sidebar']/p[2]</value>
+      <webElementGuid>9a7bdd9f-99dc-4273-9eb6-426c4bac7129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng xuất'])[1]/following::p[2]</value>
+      <webElementGuid>18deae72-ebbb-47d8-b380-c4ddaea4a997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách địa chỉ'])[1]/following::p[2]</value>
+      <webElementGuid>55d1de3e-4cc3-4f47-a58c-5a8c7e5500f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty:'])[1]/preceding::p[1]</value>
+      <webElementGuid>c11358aa-68ee-48fe-a825-45568d2ebebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trang Phạm']/parent::*</value>
+      <webElementGuid>16ac1afb-9785-4c43-8ecf-e87317e31dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/p[2]</value>
+      <webElementGuid>cdfd1502-fa8a-46d2-9932-6ccf0065c3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Họ Tên:  Trang Phạm' or . = 'Họ Tên:  Trang Phạm')]</value>
+      <webElementGuid>ee1d8721-ed79-4673-847a-0a029d5280ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

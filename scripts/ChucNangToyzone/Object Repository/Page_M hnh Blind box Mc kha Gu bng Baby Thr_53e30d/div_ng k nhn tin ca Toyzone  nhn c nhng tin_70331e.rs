@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng k nhn tin ca Toyzone  nhn c nhng tin_70331e</name>
+   <tag></tag>
+   <elementGuidId>1754fc21-52ad-4259-a800-d069909df26c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#onesignal-slidedown-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onesignal-slidedown-container']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf7d3282-e091-4984-acfa-9c24b73d45ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container</value>
+      <webElementGuid>8e56b7cd-8f48-4b9d-b0e8-47d44d3ee5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onesignal-slidedown-container onesignal-reset slide-down</value>
+      <webElementGuid>27e65b87-e8a1-4582-a35c-cf7fad76bb44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng ký nhận tin của Toyzone để nhận được những tin tức, ưu đãi cập nhật mới nhất.Đăng kýĐể sau</value>
+      <webElementGuid>494a776b-66ed-4678-a2cc-7b820349b668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onesignal-slidedown-container&quot;)</value>
+      <webElementGuid>5e4262e9-062b-49a8-b66e-86bc63cb9c5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onesignal-slidedown-container']</value>
+      <webElementGuid>37ac25cf-f64c-4281-afd7-b3692a9cc864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[2]/following::div[7]</value>
+      <webElementGuid>1336a44d-11e9-41b2-89ab-1c27a67b033d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm áp dụng'])[2]/following::div[11]</value>
+      <webElementGuid>51b934bb-1b3d-418f-b42a-cf8b1d8d6a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]</value>
+      <webElementGuid>ce673975-5ea1-4527-bbfe-db76e6616d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onesignal-slidedown-container' and (text() = 'Đăng ký nhận tin của Toyzone để nhận được những tin tức, ưu đãi cập nhật mới nhất.Đăng kýĐể sau' or . = 'Đăng ký nhận tin của Toyzone để nhận được những tin tức, ưu đãi cập nhật mới nhất.Đăng kýĐể sau')]</value>
+      <webElementGuid>d8649440-b2dc-435c-bd53-e19571088287</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

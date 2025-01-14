@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_t lm a ch mc nh_btn bt-primary</name>
+   <tag></tag>
+   <elementGuidId>e1556e0e-c437-4df4-b1ac-7ccad18ccf4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.bt-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Cập nhật']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dbce25f0-13b2-4704-916f-c833bd2da0a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn bt-primary</value>
+      <webElementGuid>dff3cee7-fffe-4fd3-9aa5-405567157398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5c759b9c-9b54-4740-af19-2a104dddb718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Cập nhật</value>
+      <webElementGuid>c08bbd9c-aacd-4fe0-a0ab-930bea2eb5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address_form_10209597660&quot;)/div[@class=&quot;action_bottom&quot;]/input[@class=&quot;btn bt-primary&quot;]</value>
+      <webElementGuid>b9eba9ac-d332-418e-ac38-0a07897751e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Cập nhật']</value>
+      <webElementGuid>e9227845-e054-4aed-bb23-fbc547a39341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='address_form_10209597660']/div[11]/input</value>
+      <webElementGuid>fbe4851d-df0f-4e42-8412-58aa7e7f8e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/input</value>
+      <webElementGuid>809dfce5-34ee-4e6d-91bf-87b6ea36aa9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>7eb3ba15-2719-4614-a506-90d06e58f441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

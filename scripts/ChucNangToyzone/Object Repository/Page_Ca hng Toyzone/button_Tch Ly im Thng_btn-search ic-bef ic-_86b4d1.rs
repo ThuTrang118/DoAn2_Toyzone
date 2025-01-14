@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tch Ly im Thng_btn-search ic-bef ic-_86b4d1</name>
+   <tag></tag>
+   <elementGuidId>f1000d6a-a154-48cb-a74c-2ca48711d655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-search.ic-bef.ic-site-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>821927f4-7efe-4269-a3de-14cc1594b755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e1b4ce8d-7671-4b5e-b83b-b4ebc6ca5647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-search ic-bef ic-site-search</value>
+      <webElementGuid>c6c95381-9d18-4a75-9026-523fab23df65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-bottom hidden-xs&quot;]/div[@class=&quot;container-fluid relative&quot;]/div[@class=&quot;show-search hidden-1024&quot;]/div[@class=&quot;wpo-wrapper-search&quot;]/form[@class=&quot;form-search topsearch&quot;]/button[@class=&quot;btn-search ic-bef ic-site-search&quot;]</value>
+      <webElementGuid>0810639f-3c87-4177-9abf-794a4ce999b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>41dbbffd-2b6b-4746-99c3-85fcd1b2b7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div/div/form/button</value>
+      <webElementGuid>b6f3ddb9-dc04-4d23-aa12-0317acfdf1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tích Lũy Điểm Thưởng'])[1]/following::button[1]</value>
+      <webElementGuid>a12644bf-1dea-483b-b396-3f48a1f1433e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giao Hàng Toàn Quốc'])[1]/following::button[1]</value>
+      <webElementGuid>11e9a9b9-1cb7-44a0-bfc6-42d2247c1605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô hình Blind box Móc khóa Gấu bông Baby Three V3 Mini BABY THREE'])[1]/preceding::button[1]</value>
+      <webElementGuid>9e115a5d-20c2-4a54-831f-11512399b3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô hình Blind box Gấu bông Take Me Out Zipper Bag BABY THREE'])[1]/preceding::button[1]</value>
+      <webElementGuid>60be091b-66d4-4010-8479-30389b1b2049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>48a1bac8-296b-44af-86a5-bc9201a16d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>dc23a862-5cae-455d-a134-29564f05cfcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

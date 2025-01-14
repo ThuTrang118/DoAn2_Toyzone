@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cu hi thng gp (0)_1</name>
+   <tag></tag>
+   <elementGuidId>1e402ebc-f661-4929-9bea-c1f916d59519</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.onirvapp-tab-btn-active.onirvapp-tab-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4cf0566e-723b-4a8e-b210-0d8b5c50dc8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a7454ec-1164-4fe4-8415-c3192ac533c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-tab-btn-active onirvapp-tab-btn</value>
+      <webElementGuid>3196c3c6-c6c5-4715-b1e2-35d242a83519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Câu hỏi thường gặp (0)</value>
+      <webElementGuid>ea46b46e-fb67-4fe9-8bcf-f95a348ae8ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onirvapp-detail-body&quot;)/div[@class=&quot;onirvapp-detail-tabs&quot;]/div[@class=&quot;onirvapp-tab&quot;]/button[@class=&quot;onirvapp-tab-btn-active onirvapp-tab-btn&quot;]</value>
+      <webElementGuid>caae3bcc-88c0-4496-acc3-dac941c72023</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[16]</value>
+      <webElementGuid>520434ed-6d0e-4b33-8184-239c8ffa163e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onirvapp-detail-body']/div/div/button[2]</value>
+      <webElementGuid>6b861e64-9cff-416c-8d34-7256dfee2372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lượt thích'])[1]/following::button[2]</value>
+      <webElementGuid>d44fad20-5771-4275-a7df-b4c1917839c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chưa có câu hỏi nào'])[1]/preceding::button[2]</value>
+      <webElementGuid>797115e8-03e5-4b1a-a42b-23e68fae3694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Câu hỏi thường gặp']/parent::*</value>
+      <webElementGuid>1b53dfe5-6218-4268-9b9f-4cb836578639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>9d55cb0c-ca77-44c5-b723-44e7ddee5c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Câu hỏi thường gặp (0)' or . = 'Câu hỏi thường gặp (0)')]</value>
+      <webElementGuid>b7459de1-c9b0-4184-b90b-89808ba1a0e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Đặt câu hỏi</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>022484e7-298c-4a9d-85b2-7373f1744e72</testSuiteGuid>
+   <testCaseLink>
+      <guid>e1011569-eb18-4a43-8a95-2d83c284600d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Đặt câu hỏi</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a5ee04bf-ba18-4505-a202-2f9a2ae5959d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Đặt câu hỏi</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a5ee04bf-ba18-4505-a202-2f9a2ae5959d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ten</value>
+         <variableId>01d04ad3-7202-4a75-a806-8be091a65249</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5ee04bf-ba18-4505-a202-2f9a2ae5959d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>e08d5876-734e-4bc7-87fe-d4cb5ba12445</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5ee04bf-ba18-4505-a202-2f9a2ae5959d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoDienThoai</value>
+         <variableId>dc32f04c-319c-4ad3-9f95-c9e6c05b10f4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5ee04bf-ba18-4505-a202-2f9a2ae5959d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MoTa</value>
+         <variableId>86b74862-d1e8-4e8c-bc22-482304a1fbff</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

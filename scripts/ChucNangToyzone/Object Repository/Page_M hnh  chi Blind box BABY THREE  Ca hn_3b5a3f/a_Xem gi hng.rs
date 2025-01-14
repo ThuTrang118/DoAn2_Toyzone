@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Xem gi hng</name>
+   <tag></tag>
+   <elementGuidId>f2af5758-d586-41f3-aa81-9e88b8e6d09a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.linktocart.button.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='site-cart']/div/div/table[3]/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5eb6a1b2-1b0f-430b-9a33-b0d20a67f530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart</value>
+      <webElementGuid>1d5bfad8-96bd-4aad-9f00-351a79796b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktocart button dark</value>
+      <webElementGuid>57068fd5-600f-4cbe-9ce3-06a06709f9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem giỏ hàng</value>
+      <webElementGuid>6c525ff3-0311-4a2c-833a-0109f1721add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-cart&quot;)/div[@class=&quot;site-nav-container-last&quot;]/div[@class=&quot;cart-view clearfix&quot;]/table[@class=&quot;table-total&quot;]/tbody[1]/tr[2]/td[1]/a[@class=&quot;linktocart button dark&quot;]</value>
+      <webElementGuid>dff8eb13-7381-4d76-9dee-fa93f518fcb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-cart']/div/div/table[3]/tbody/tr[2]/td/a</value>
+      <webElementGuid>8142fe4a-5fd0-4d17-a212-4ec43e0ce0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Xem giỏ hàng')]</value>
+      <webElementGuid>49fbc769-cca1-45ff-a50a-aa7da6043953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TỔNG TIỀN:'])[1]/following::a[1]</value>
+      <webElementGuid>a5427b56-9140-49bb-9243-c98abb2f0083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hộp Lẻ ( 1 Hộp )'])[7]/following::a[2]</value>
+      <webElementGuid>c548be4e-7836-45dc-9ef5-a41b4a1104e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh toán'])[2]/preceding::a[1]</value>
+      <webElementGuid>90714b70-1ee9-4b5a-9f01-0a77fc439324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[3]</value>
+      <webElementGuid>0f6b3aa0-4abe-4c90-8391-b76326660a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xem giỏ hàng']/parent::*</value>
+      <webElementGuid>4962b909-32cd-4811-935a-b998b2d351ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/cart')])[6]</value>
+      <webElementGuid>12c669cf-3c72-4650-9f00-2cd08c319267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr[2]/td/a</value>
+      <webElementGuid>0dc9d768-43c7-4826-afae-f9fd2930f6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart' and (text() = 'Xem giỏ hàng' or . = 'Xem giỏ hàng')]</value>
+      <webElementGuid>1eb21ec6-e02e-46a7-bf94-6d71a35cc56d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

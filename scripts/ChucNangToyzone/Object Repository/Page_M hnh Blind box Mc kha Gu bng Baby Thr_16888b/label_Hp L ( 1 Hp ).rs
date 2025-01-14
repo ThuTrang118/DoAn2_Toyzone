@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Hp L ( 1 Hp )</name>
+   <tag></tag>
+   <elementGuidId>a24d1d35-238c-45dd-8903-ac2da74fcb85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#con-hang</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='con-hang']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6a9ab659-ec93-466a-b3f0-c688477436fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/products/mo-hinh-blind-box-moc-khoa-gau-bong-baby-three-romantic-ocean-dai-duong-lang-man-baby-three?color=Hộp Lẻ ( 1 Hộp )</value>
+      <webElementGuid>54d4c600-fcbb-49e4-bbd7-5755883e9786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>con-hang</value>
+      <webElementGuid>737712a4-be83-4d4a-af6c-c088ad4635b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>first-blood</value>
+      <webElementGuid>994f0ab2-faa2-46b9-ac08-12726f00dc03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-handle</name>
+      <type>Main</type>
+      <value>hop-le-1-hop</value>
+      <webElementGuid>d4f70f5a-7b54-42ca-a126-8d2c7b9a5be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>swatch-0-hop-le-1-hop</value>
+      <webElementGuid>6741af6c-ed81-45b8-a12c-2aeeffefd256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Hộp Lẻ ( 1 Hộp )
+			</value>
+      <webElementGuid>2910c6db-1e3c-4797-9200-f9f126b000cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;variant-swatch-0&quot;)/div[@class=&quot;select-swap&quot;]/div[@class=&quot;n-sd swatch-element color1 hop-le-1-hop&quot;]/label[@id=&quot;con-hang&quot;]</value>
+      <webElementGuid>45518fa9-1a87-492f-8cdc-9fe0dc04e1ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='con-hang']</value>
+      <webElementGuid>8c5f1285-8af2-4c5c-8fc4-c47f3ada3acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='variant-swatch-0']/div[2]/div/label</value>
+      <webElementGuid>53e255c9-10d5-47da-91ab-12233b464227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiêu đề:'])[1]/following::label[1]</value>
+      <webElementGuid>184082a6-c565-4c19-822e-5cba2bdef3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem điểm tích lũy'])[1]/following::label[1]</value>
+      <webElementGuid>0c2f02e5-f703-45bb-a67f-4460bc3365b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyên Bộ ( 8 Hộp )'])[3]/preceding::label[1]</value>
+      <webElementGuid>525e4a9c-dbc1-4c1c-a94d-2f2bae0e2184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>9525b9af-1e6b-407e-838a-da35d41b4a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'con-hang' and (text() = '
+				Hộp Lẻ ( 1 Hộp )
+			' or . = '
+				Hộp Lẻ ( 1 Hộp )
+			')]</value>
+      <webElementGuid>a199bbe5-40d6-4c04-a10e-3a667b723a20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

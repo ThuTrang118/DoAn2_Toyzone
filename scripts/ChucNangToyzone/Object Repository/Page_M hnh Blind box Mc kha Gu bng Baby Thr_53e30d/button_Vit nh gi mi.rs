@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Vit nh gi mi</name>
+   <tag></tag>
+   <elementGuidId>238e027a-1349-4e83-afb2-e4ce36ab29f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.onirvapp-btn.onirvapp-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>66860875-3e4e-4dd2-8632-a6b88ac4fa5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ba66d5a-f20d-4dbd-9bd7-c24213451c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-btn onirvapp-btn-primary</value>
+      <webElementGuid>2bd77420-4e85-4bd7-9e76-db2b0e2d9a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Viết đánh giá mới</value>
+      <webElementGuid>9549af60-e734-4297-b5dc-b1cbdd0f2f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onirvapp-detail-body&quot;)/div[@class=&quot;onirvapp-detail-tabs&quot;]/div[@class=&quot;onirvapp-tab-action&quot;]/button[@class=&quot;onirvapp-btn onirvapp-btn-primary&quot;]</value>
+      <webElementGuid>bcc8ff1b-8f79-47e2-b138-816db0462a62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>b46c4039-3d5d-43dd-ae2a-1dde16732646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onirvapp-detail-body']/div/div[2]/button</value>
+      <webElementGuid>c1ab1c33-de0e-4398-a287-7ae5f0abe438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chưa có đánh giá nào'])[1]/preceding::button[1]</value>
+      <webElementGuid>80cf8bbc-6e5c-42c2-b81d-98b76089dd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm đã xem'])[1]/preceding::button[1]</value>
+      <webElementGuid>9faae625-cad6-4629-ad9c-4094e9d2d55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Viết']/parent::*</value>
+      <webElementGuid>8b48c245-0c15-4928-9c83-8a75387f51e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7c4a373d-85a4-4c48-b797-967e3a1516fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Viết đánh giá mới' or . = 'Viết đánh giá mới')]</value>
+      <webElementGuid>b37c07a2-10ca-4269-8192-5988d21f07d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

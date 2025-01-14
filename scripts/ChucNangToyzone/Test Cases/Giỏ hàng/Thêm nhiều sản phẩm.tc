@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm nhiều sản phẩm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>114ef99e-a386-43cd-8818-82de526621a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>960349af-f372-41f6-afe0-a9dcc414b589</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0ac7db6-9776-495f-b4ce-b89a3a611f0e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'username\r\n'</defaultValue>
+      <description></description>
+      <id>960349af-f372-41f6-afe0-a9dcc414b589</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pass\r\n'</defaultValue>
+      <description></description>
+      <id>a0ac7db6-9776-495f-b4ce-b89a3a611f0e</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

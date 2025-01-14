@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_XEM THM_product-item__img jss11</name>
+   <tag></tag>
+   <elementGuidId>65eeff6b-8bca-43ee-a871-18ffad89962b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#splide01-slide03 > div.MuiBox-root.jss40.product-item.jss7 > div.MuiBox-root.jss41.jss8 > a.jss10 > img.product-item__img.jss11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bbf40b34-1b00-410c-8905-dc0f907879f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__img jss11</value>
+      <webElementGuid>dd04270d-d123-485a-ab2b-6ce10183c379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://product.hstatic.net/200000726533/product/-blind-box-moc-khoa-gau-bong-baby-three-romantic-ocean-baby-three___1__31832ebe7ccc4d7594f86f216ff3a6e0.jpg</value>
+      <webElementGuid>6ec2fd8b-fbd3-45c9-8f5a-b7d1865972a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide01-slide03&quot;)/div[@class=&quot;MuiBox-root jss40 product-item jss7&quot;]/div[@class=&quot;MuiBox-root jss41 jss8&quot;]/a[@class=&quot;jss10&quot;]/img[@class=&quot;product-item__img jss11&quot;]</value>
+      <webElementGuid>cc9a4510-7198-4b77-baa0-bab369ecf28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_M hnh Blind box Mc kha Gu bng Baby Thr_53e30d/iframe_Bnh lun_sZK9YV1o3IVZlUsy</value>
+      <webElementGuid>12d50c0f-abbb-4598-bcc3-c033ca679b0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      <webElementGuid>d83ebb39-e6ae-479f-8df5-afe008eacd3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://product.hstatic.net/200000726533/product/-blind-box-moc-khoa-gau-bong-baby-three-romantic-ocean-baby-three___1__31832ebe7ccc4d7594f86f216ff3a6e0.jpg')])[2]</value>
+      <webElementGuid>5c00c4c2-dd1b-4873-9339-7dbbf5023cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/div/a/img</value>
+      <webElementGuid>352a1e27-f846-4172-9ef6-997bcee264b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://product.hstatic.net/200000726533/product/-blind-box-moc-khoa-gau-bong-baby-three-romantic-ocean-baby-three___1__31832ebe7ccc4d7594f86f216ff3a6e0.jpg']</value>
+      <webElementGuid>05650846-a5c6-478f-9b69-a64ad90242e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

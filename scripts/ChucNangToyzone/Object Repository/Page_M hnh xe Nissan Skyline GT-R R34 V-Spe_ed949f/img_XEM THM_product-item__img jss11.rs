@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_XEM THM_product-item__img jss11</name>
+   <tag></tag>
+   <elementGuidId>be133db0-9a6d-444a-83e2-a48ae91034fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#splide01-slide03 > div.MuiBox-root.jss40.product-item.jss7 > div.MuiBox-root.jss41.jss8 > a.jss10 > img.product-item__img.jss11</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cc158193-8d5e-4ae8-aa04-1faecbe3f5da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__img jss11</value>
+      <webElementGuid>7ac266e2-f86c-49fe-8344-f544e396bdd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://product.hstatic.net/200000726533/product/mo-hinh-xe-mitsubishi-outlander-2021-1-64-jkm-white__1__88a57778dc6841a7bc11768095b10b5a.jpg</value>
+      <webElementGuid>2d35a1f4-2fae-49f3-823e-7ea878e54311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;splide01-slide03&quot;)/div[@class=&quot;MuiBox-root jss40 product-item jss7&quot;]/div[@class=&quot;MuiBox-root jss41 jss8&quot;]/a[@class=&quot;jss10&quot;]/img[@class=&quot;product-item__img jss11&quot;]</value>
+      <webElementGuid>b2ddb7a4-b6a3-4677-82b5-52b1dac00be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_M hnh xe Nissan Skyline GT-R R34 V-Spe_ed949f/iframe_Cha c nh gi no_Lhk89RW2_y0KGlpI</value>
+      <webElementGuid>877cee99-8bda-4e08-96b5-dff8f50c89a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='splide01-slide03']/div/div/a/img</value>
+      <webElementGuid>d8e8fcee-e999-42e8-8e6d-8cc1a20e9b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://product.hstatic.net/200000726533/product/mo-hinh-xe-mitsubishi-outlander-2021-1-64-jkm-white__1__88a57778dc6841a7bc11768095b10b5a.jpg')])[2]</value>
+      <webElementGuid>4ba498b8-1166-4aed-9dc6-74ef98244547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/div/a/img</value>
+      <webElementGuid>cebf2233-3328-4d56-8016-5d9d8d7e098c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://product.hstatic.net/200000726533/product/mo-hinh-xe-mitsubishi-outlander-2021-1-64-jkm-white__1__88a57778dc6841a7bc11768095b10b5a.jpg']</value>
+      <webElementGuid>26be69b9-f458-4926-b3f8-262df4d157cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

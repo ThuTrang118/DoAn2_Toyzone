@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm sản phẩm vào giỏ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>701ca816-e58f-4ca3-b147-e4161ce9a899</testCaseGuid>
+</TestCaseEntity>

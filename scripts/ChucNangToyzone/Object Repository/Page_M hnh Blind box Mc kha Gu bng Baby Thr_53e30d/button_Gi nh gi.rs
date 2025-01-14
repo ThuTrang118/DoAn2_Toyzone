@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gi nh gi</name>
+   <tag></tag>
+   <elementGuidId>36aa5bbb-37c3-4345-b9c5-9ca322700552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.onirvapp-form-action > button.onirvapp-btn.onirvapp-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b94a0c03-af4d-47ef-b729-9e40293c4672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>bc37f397-a135-4c99-b65a-ec066dce6c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-btn onirvapp-btn-primary</value>
+      <webElementGuid>100b3b03-cb6a-42c8-b5b8-20517f667143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gửi đánh giá</value>
+      <webElementGuid>2828f535-b9d3-4931-8658-75fa7f349650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r1:&quot;)/form[1]/div[@class=&quot;onirvapp-form-container&quot;]/div[@class=&quot;onirvapp-form-action&quot;]/button[@class=&quot;onirvapp-btn onirvapp-btn-primary&quot;]</value>
+      <webElementGuid>bca95ea3-5ca8-44a6-9b79-c072dc44fb77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>ad2f0866-06c3-4a32-8fd1-c2844c0c91f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r1:']/form/div/div[2]/button[2]</value>
+      <webElementGuid>cdb665e6-67ff-4f40-8172-75483097bf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
+      <webElementGuid>eda26a47-9383-4c07-8a8b-8f2facb40816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Tối đa 5 hình, mỗi hình không quá 5mb)'])[1]/following::button[7]</value>
+      <webElementGuid>338aa1f8-7401-45c4-8142-dbce481af5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gửi đánh giá']/parent::*</value>
+      <webElementGuid>c3e725bf-7035-4ee1-94ab-e6c6351ea5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div/div[2]/button[2]</value>
+      <webElementGuid>9ed9fff2-1bb1-4804-b2c4-14de3ac09e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Gửi đánh giá' or . = 'Gửi đánh giá')]</value>
+      <webElementGuid>bcae84d6-1bca-4410-847d-a66a9b34fa16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

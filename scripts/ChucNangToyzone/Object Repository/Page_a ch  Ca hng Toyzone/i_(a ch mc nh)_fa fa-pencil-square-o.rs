@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_(a ch mc nh)_fa fa-pencil-square-o</name>
+   <tag></tag>
+   <elementGuidId>c1ebe6f7-31de-4340-976c-b0ad12c0b0d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil-square-o</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='address_tables']/div/div/div/p/span/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3c7a4950-de71-4f08-af9a-cff200f2202b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil-square-o</value>
+      <webElementGuid>c5dd3eb6-a647-4aa3-9cfd-8e356ee480b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0b224383-d7c2-4344-a6d2-e124c1c1d306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address_tables&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-xs-12 clearfix&quot;]/div[@class=&quot;address_title&quot;]/p[@class=&quot;address_actions text-right&quot;]/span[@class=&quot;action_link action_edit&quot;]/a[1]/i[@class=&quot;fa fa-pencil-square-o&quot;]</value>
+      <webElementGuid>708c7c15-060f-40aa-bae8-db89c33bb702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='address_tables']/div/div/div/p/span/a/i</value>
+      <webElementGuid>c71590d3-f5ce-4db1-a5d9-dad41ed7e5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>9beab6e8-99d0-45a7-97a8-b1ed56cc3f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

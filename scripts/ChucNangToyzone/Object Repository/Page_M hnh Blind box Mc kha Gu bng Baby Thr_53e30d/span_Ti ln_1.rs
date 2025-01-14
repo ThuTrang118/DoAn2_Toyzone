@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ti ln_1</name>
+   <tag></tag>
+   <elementGuidId>68dc68d2-7b36-4247-8abe-b1bfb537dd72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.onirvapp-images-withupload-action-labeltext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:r1:']/form/div/div/div[8]/div/div/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c91b104-3dbc-4685-93f7-a7c750d7d0c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-images-withupload-action-labeltext</value>
+      <webElementGuid>a57f089f-e7d9-4e2b-827b-34419dee70a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tải lên</value>
+      <webElementGuid>e98b8901-3102-4f66-b995-bc78c3574db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r1:&quot;)/form[1]/div[@class=&quot;onirvapp-form-container&quot;]/div[@class=&quot;onirvapp-form-content&quot;]/div[@class=&quot;onirvapp-form-group&quot;]/div[@class=&quot;onirvapp-form-images&quot;]/div[@class=&quot;onirvapp-images-withupload&quot;]/div[@class=&quot;onirvapp-images-withupload-action&quot;]/label[@class=&quot;onirvapp-images-withupload-action-label&quot;]/span[@class=&quot;onirvapp-images-withupload-action-labeltext&quot;]</value>
+      <webElementGuid>b9ba03b0-b97d-4cfe-8385-72792e17468f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r1:']/form/div/div/div[8]/div/div/div[2]/label/span</value>
+      <webElementGuid>3329e6d5-56b8-47c0-9034-3cb868eca1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Tối đa 5 hình, mỗi hình không quá 5mb)'])[1]/following::span[1]</value>
+      <webElementGuid>c41cbdf8-c92d-4d2b-b09f-89435f38f626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/preceding::span[1]</value>
+      <webElementGuid>4d56873b-8271-4fa9-abdf-ca93a3ab9e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gửi đánh giá'])[1]/preceding::span[1]</value>
+      <webElementGuid>58a58a67-7f20-48e1-a1fb-32fbd97c6649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tải lên']/parent::*</value>
+      <webElementGuid>3fa11a2c-b955-43e5-8f6a-c1ce12aa76d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/label/span</value>
+      <webElementGuid>b8488812-9d4d-4917-a762-1b63b038ca4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tải lên' or . = 'Tải lên')]</value>
+      <webElementGuid>b7b7d2c6-879a-40ad-be5e-bd7c3786b98f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

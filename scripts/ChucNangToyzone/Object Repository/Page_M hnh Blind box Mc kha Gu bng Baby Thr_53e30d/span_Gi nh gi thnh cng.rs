@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gi nh gi thnh cng</name>
+   <tag></tag>
+   <elementGuidId>20a0d327-befb-484b-a7ad-3ba00107bce0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.onirvapp-dialog-content-panel-alerttext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-panel-:r1:']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b12d3bb-90b2-4bf4-abe6-838a82cba706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-dialog-content-panel-alerttext</value>
+      <webElementGuid>1add4ac4-a5fb-48eb-9d2d-b3ebda4b6698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gửi đánh giá thành công</value>
+      <webElementGuid>5eb5a71a-efa6-4104-81d9-6657106396a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r1:&quot;)/div[@class=&quot;onirvapp-dialog-content-panel-loading&quot;]/div[@class=&quot;onirvapp-dialog-content-panel-alert&quot;]/span[@class=&quot;onirvapp-dialog-content-panel-alerttext&quot;]</value>
+      <webElementGuid>39adeb41-b4e6-4723-83bb-bb5a97b12f93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r1:']/div/div/span</value>
+      <webElementGuid>4287a1ed-c3b0-4d88-82e3-0e8639239896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[2]/following::span[1]</value>
+      <webElementGuid>4932223a-e942-4616-9dc0-30b3c177cc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm áp dụng'])[2]/following::span[1]</value>
+      <webElementGuid>e067246f-9cb0-4214-b11b-3de244ae3864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viết đánh giá mới'])[2]/preceding::span[1]</value>
+      <webElementGuid>c4fd1c32-f9b9-47db-bfa0-09a14a316a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gửi đánh giá thành công']/parent::*</value>
+      <webElementGuid>3f144b73-eba5-4e20-bff7-ad1d950c7456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>ae7c26a8-d367-44fc-8046-763c1118dcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gửi đánh giá thành công' or . = 'Gửi đánh giá thành công')]</value>
+      <webElementGuid>e41d697e-2c32-480a-8ff9-2ac76d48d402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

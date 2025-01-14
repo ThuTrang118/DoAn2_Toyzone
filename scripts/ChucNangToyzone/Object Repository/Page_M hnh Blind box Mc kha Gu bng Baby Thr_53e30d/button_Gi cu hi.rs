@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gi cu hi</name>
+   <tag></tag>
+   <elementGuidId>f557e263-9364-42d8-bcbf-d2e70fb631e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.onirvapp-form-action > button.onirvapp-btn.onirvapp-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a2497b9-7871-4952-a27d-4f2fd9d05e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>05a4e732-b3b7-448f-bf59-c7ab624e85ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onirvapp-btn onirvapp-btn-primary</value>
+      <webElementGuid>f918e71e-0a7f-4ee3-b8d6-71758ff18bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gửi câu hỏi</value>
+      <webElementGuid>88edb2e3-84f8-4657-9c97-d73c135e6077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-panel-:r1:&quot;)/form[1]/div[@class=&quot;onirvapp-form-container&quot;]/div[@class=&quot;onirvapp-form-action&quot;]/button[@class=&quot;onirvapp-btn onirvapp-btn-primary&quot;]</value>
+      <webElementGuid>ad532ad8-2f75-4fa3-b2be-9c76e9ab83bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>08117085-4e68-4089-8f4a-6ccb9b4f4f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-panel-:r1:']/form/div/div[2]/button[2]</value>
+      <webElementGuid>e61914c7-0321-4cf0-a50e-6c92a61b10da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hủy'])[1]/following::button[1]</value>
+      <webElementGuid>01d5665e-5c4f-4f15-9183-9c57afdbe467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[2]</value>
+      <webElementGuid>28a2a322-fad2-4be7-9483-8252decb7f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn mẫu sản phẩm'])[1]/preceding::button[2]</value>
+      <webElementGuid>41d287f4-798a-4775-921f-6ed725ad76cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm vào giỏ'])[3]/preceding::button[2]</value>
+      <webElementGuid>7f8b66fe-140e-41fb-a043-225fd1af317e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gửi câu hỏi']/parent::*</value>
+      <webElementGuid>35b2608d-348c-4ab7-8c5d-43dbb28081eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div/div[2]/button[2]</value>
+      <webElementGuid>f204dd58-ee5b-4a38-ba32-6912ed2aa834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Gửi câu hỏi' or . = 'Gửi câu hỏi')]</value>
+      <webElementGuid>4ab99959-f83c-45aa-8dec-c45286b65a0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
